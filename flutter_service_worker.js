@@ -1,0 +1,1 @@
+../aspell/build/web/flutter_service_worker.js
